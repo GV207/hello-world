@@ -1,2 +1,2 @@
-# hello-world
-a testing repository for a project to test the work experience on GitHub
+# Chiranjeevi Mandava
+a fellow ,who don't know what to do in a particular time
